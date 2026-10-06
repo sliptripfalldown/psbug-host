@@ -2,7 +2,7 @@
 
 **Open the host:** https://sliptripfalldown.github.io/psbug-host/
 
-**LAN mirror (same network):** http://192.168.10.210:8079/
+**LAN mirror (cluster):** http://192.168.30.105:30079/
 
 # PS5 Relapse Exploit
 Supported firmware: 7.00 through 13.60.
