@@ -1,3 +1,7 @@
+# psbug-host
+
+**Open the host:** https://sliptripfalldown.github.io/psbug-host/
+
 # PS5 Relapse Exploit
 Supported firmware: 7.00 through 13.60.
 
